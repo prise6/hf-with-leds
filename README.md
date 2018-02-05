@@ -6,9 +6,13 @@ What can we do with 4 meters of LEDs (32 leds/m) and raspberry pi ?
 My steps:
 
 1- Connect and control leds with raspberry -> Done
+
 2- Leds will react according to music playing on raspberry -> Done
+
 3- Raspberry will also output the music -> Done
+
 4- The music will come from Spotify stream -> Done
+
 5- What about a spectrum analyzer ?
 
 I'm a real newbie in this field, here is my first approach.
